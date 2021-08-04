@@ -1201,8 +1201,8 @@ section {
 }
 @media (min-width: 1200px) {
   .team-khali{
-   margin-left: 200px;
-   margin-right: auto;
+    position: relative;
+left: 15%;
   }
 }
 
