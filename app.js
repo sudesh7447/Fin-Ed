@@ -7,7 +7,7 @@ const app = express();
 app.set('view engine', 'ejs');
  // story array it will be big
  // enter story objects
- story1 = {title:"Warren Buffet's Story"  , body:"Morbi hendrerit nunc gravida, pharetra eros a, pulvinar tortor. Sed posuere neque id laoreet rutrum. Cras non consequat nunc. Sed vulputate rutrum odio. Aliquam diam quam, bibendum non vestibulum at, feugiat non erat. Donec molestie purus diam, et ultrices lectus mollis a. Maecenas sodales eu leo sollicitudin mollis. Nunc ac mi ultrices, auctor nulla porta, aliquam sem. Sed quis ante dolor. Quisque mattis turpis mauris, blandit scelerisque ante auctor a. Suspendisse gravida luctus purus at tristique. Mauris in metus maximus, malesuada enim ac, hendrerit mi. Cras ac eros non dui placerat molestie sit amet id mi. Pellentesque sed urna dignissim, vehicula risus sit amet, tincidunt ex. Aliquam id egestas quam, quis egestas ex. Phasellus ac pellentesque est. " };
+var story1 = {title:"Warren Buffet's Story"  , body:"Morbi hendrerit nunc gravida, pharetra eros a, pulvinar tortor. Sed posuere neque id laoreet rutrum. Cras non consequat nunc. Sed vulputate rutrum odio. Aliquam diam quam, bibendum non vestibulum at, feugiat non erat. Donec molestie purus diam, et ultrices lectus mollis a. Maecenas sodales eu leo sollicitudin mollis. Nunc ac mi ultrices, auctor nulla porta, aliquam sem. Sed quis ante dolor. Quisque mattis turpis mauris, blandit scelerisque ante auctor a. Suspendisse gravida luctus purus at tristique. Mauris in metus maximus, malesuada enim ac, hendrerit mi. Cras ac eros non dui placerat molestie sit amet id mi. Pellentesque sed urna dignissim, vehicula risus sit amet, tincidunt ex. Aliquam id egestas quam, quis egestas ex. Phasellus ac pellentesque est. " };
 
 
  // 
