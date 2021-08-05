@@ -32,7 +32,7 @@
       }
     }
   }
-
+ 
   /**
    * Easy on scroll event listener
    */
